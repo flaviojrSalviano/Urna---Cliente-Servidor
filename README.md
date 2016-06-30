@@ -10,7 +10,7 @@ Configuracoes
 6. Com o servidor executando inicie o projeto cliente da mesma forma que o servidor, caso o servidor não esteja local voce precisa trocar o IP que se encontra no metodo Main da Classe Cliente.
 
 Como Usar a Urna?
-Para utilizar a urna voce precisa clicar no botao op999 para carregar os candidatos.
+<br>Para utilizar a urna voce precisa clicar no botao op999 para carregar os candidatos.
 Duplo clique sobre um candidato e ele podera ser votado.
 No campo de texto voce pode buscar o candidato pelo nome.
 Votos em branco ou nulos deverao ser votados pelo botao correspondente.
